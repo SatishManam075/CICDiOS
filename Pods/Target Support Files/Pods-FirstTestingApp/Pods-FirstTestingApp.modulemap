@@ -1,0 +1,6 @@
+framework module Pods_FirstTestingApp {
+  umbrella header "Pods-FirstTestingApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
