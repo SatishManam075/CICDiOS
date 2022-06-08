@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        print("Hello Welcome To CICD pipelines")
+         print("Hello Welcome To CICD pipelines")
         // Do any additional setup after loading the view.
     }
 
