@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func changeBackgroundColor(_ sender: Any) {
+        print("CICD pipelines it will change the view background color")
         self.view.backgroundColor = .random()
     }
     
